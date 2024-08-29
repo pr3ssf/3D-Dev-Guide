@@ -299,6 +299,7 @@ ZBrush воспринимает только триангулированную 
 > * [_**RizomUV VS RS 2024.0**_](https://www.rizom-lab.com/) - Развертка и упаковка Single и TrimSheet UV.
 > * [_**ZBrush 2023.2.2**_](https://www.maxon.net/en/zbrush) - Скульпт, детализация, ретопология.
 > * [**_Unity 6_**](https://unity.com/releases/unity-6) - Движок проекта.
+> * [_**Weeek**_](https://weeek.net/ru) - Таск менеджер.
 > * [_**Adobe Substance Painter 10.0.0**_](https://www.adobe.com/products/substance3d/apps/painter.html) - Тестурирование, композитинг текстурных карт.
 > * [_**Adobe Substance Designer 13.1.2**_](https://www.adobe.com/ru/products/substance3d-designer.html) - Создание тайловых текстур.
 > * [_**Adobe Photoshop 2024**_](https://www.adobe.com/products/photoshop.html) - Создание, редактирование и композитинг текстурных карт.
