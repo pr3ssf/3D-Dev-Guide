@@ -222,11 +222,25 @@ ZBrush воспринимает только триангулированную 
 <a name="texturing"></a>
 ## 7. Texturing
 
-Нетайловое текстурирование происходит в программе [Adobe Substance Painter](#).
+Нетайловое текстурирование происходит в программе [Adobe Substance Painter](#) в пайплайне MetallicRoughness.
 
-Настройки экспорта из
+**Параметры экспорта:**
 
-Требования к разрешению и формату экспортируемых текстур
+> 1. **Output Template:** SpecularGlossiness
+> 2. **File Type:** PNG 8bit
+> 3. **Size:** 4096
+> 4. **Padding:** Dilation Infinite
+
+**Текстурные карты:**
+
+> 1. `Normal` - `_N`
+> 2. `Ambient Occlusion` - `_AO`
+> 3. `Height` - `_H`
+> 4. `SpecularGlossiness` - `_SG`
+> 5. `AlbedoTransparency` - `_D`
+> 6. `EmissionGrayscale` - `_E`
+
+![image](https://github.com/user-attachments/assets/33c370cf-f1ee-4f44-bf2c-e57e6b942e96)
 
 <a name="enginesetup"></a>
 ## 8. Engine Setup
