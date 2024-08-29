@@ -321,6 +321,7 @@ ZBrush воспринимает только триангулированную 
 > * [_**Marmoset Toolbag 4**_](https://marmoset.co/) - Запекание текстурных карт, рендер.
 > * [_**RizomUV VS RS 2024.0**_](https://www.rizom-lab.com/) - Развертка и упаковка Single и TrimSheet UV.
 > * [_**ZBrush 2023.2.2**_](https://www.maxon.net/en/zbrush) - Скульпт, детализация, ретопология.
+> * [_**Plasticity 2024**_](https://www.plasticity.xyz/) - Hard Surface моделирование.
 > * [**_Unity 6_**](https://unity.com/releases/unity-6) - Движок проекта.
 > * [_**Weeek**_](https://weeek.net/ru) - Таск менеджер.
 > * [**_PureRef 2_**](https://www.pureref.com/download.php) - Создание рефборда.
