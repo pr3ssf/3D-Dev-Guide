@@ -275,16 +275,17 @@ ZBrush воспринимает только триангулированную 
 <a name="software"></a>
 ## 10. Используемый софт
 
-Blender 4.2
-Marmoset Toolbag 4
-RizomUV VS RS 2024.0
-ZBrush 2023.2.2
-Adobe Substance Painter 10.0.0
-Adobe substance Designer 13.1.2
-Adobe Photoshop 2024
-Adobe Illustrator 2024
-Adobe Premiere Pro 2024
-Adobe After Effects 2024
+> * _**Blender 4.2**_ - Моделинг, развертка, тайловое текстурирование, рендер.
+> * _**Marmoset Toolbag 4**_ - Запекание текстурных карт, рендер.
+> * _**RizomUV VS RS 2024.0**_ - Развертка и упаковка Single и TrimSheet UV.
+> * _**ZBrush 2023.2.2**_ - Скульпт, детализация, ретопология.
+> * **_Unity 6_** - Движок проекта.
+> * _**Adobe Substance Painter 10.0.0**_ - Тестурирование, композитинг текстурных карт.
+> * _**Adobe Substance Designer 13.1.2**_ - Создание тайловых текстур.
+> * _**Adobe Photoshop 2024**_ - Создание, редактирование и композитинг текстурных карт.
+> * _**Adobe Illustrator 2024**_ - Векторная графика, зарисовки, создание атласов и Trim Sheet темплейтов. 
+> * _**Adobe Premiere Pro 2024**_ - Видео композитинг.
+> * _**Adobe After Effects 2024**_ - Анимация.
 
 <a name="scene-rules"></a>
 ## 11. Правила оформления сцен
@@ -312,6 +313,8 @@ Adobe After Effects 2024
 > 1. Распределять слои по логическим папкам
 > 2. Использовать цвета папок для разграничения пространства иерархии слоев.
 > 3. Где возможно использовать `Instanced` слои.
+
+[_**К содержанию**_](#top)
 
 <a name="texturemaps"></a>
 ## 12. Структура текстурных карт
