@@ -162,8 +162,8 @@ ZBrush воспринимает только триангулированную 
 <a name="unwrap"></a>
 ## 5. Unwrap & Pack
 
-> 5.1 [Правила развертки](#unwrap-unwrap)
-> 5.2 [Правила упаковки](#unwrap-pack)
+> 5.1 [Правила развертки](#unwrap-unwrap)  
+> 5.2 [Правила упаковки](#unwrap-pack)  
 
 Легче всего проставить начаальные швы и проверить грубый анврап в Blender или рабочем софте. Кроме этапа первичной расстановки швов остальная работа выполняется в программе [RizomUV VS](#).
 
@@ -294,17 +294,17 @@ ZBrush воспринимает только триангулированную 
 <a name="software"></a>
 ## 10. Используемый софт
 
-> * _**Blender 4.2**_ - Моделинг, развертка, тайловое текстурирование, рендер.
-> * _**Marmoset Toolbag 4**_ - Запекание текстурных карт, рендер.
-> * _**RizomUV VS RS 2024.0**_ - Развертка и упаковка Single и TrimSheet UV.
-> * _**ZBrush 2023.2.2**_ - Скульпт, детализация, ретопология.
-> * **_Unity 6_** - Движок проекта.
-> * _**Adobe Substance Painter 10.0.0**_ - Тестурирование, композитинг текстурных карт.
-> * _**Adobe Substance Designer 13.1.2**_ - Создание тайловых текстур.
-> * _**Adobe Photoshop 2024**_ - Создание, редактирование и композитинг текстурных карт.
-> * _**Adobe Illustrator 2024**_ - Векторная графика, зарисовки, создание атласов и Trim Sheet темплейтов. 
-> * _**Adobe Premiere Pro 2024**_ - Видео композитинг.
-> * _**Adobe After Effects 2024**_ - Анимация.
+> * [_**Blender 4.2**_](https://www.blender.org/) - Моделинг, развертка, тайловое текстурирование, рендер.
+> * [_**Marmoset Toolbag 4**_](https://marmoset.co/) - Запекание текстурных карт, рендер.
+> * [_**RizomUV VS RS 2024.0**_](https://www.rizom-lab.com/) - Развертка и упаковка Single и TrimSheet UV.
+> * [_**ZBrush 2023.2.2**_](https://www.maxon.net/en/zbrush) - Скульпт, детализация, ретопология.
+> * [**_Unity 6_**](https://unity.com/releases/unity-6) - Движок проекта.
+> * [_**Adobe Substance Painter 10.0.0**_](https://www.adobe.com/products/substance3d/apps/painter.html) - Тестурирование, композитинг текстурных карт.
+> * [_**Adobe Substance Designer 13.1.2**_](https://www.adobe.com/ru/products/substance3d-designer.html) - Создание тайловых текстур.
+> * [_**Adobe Photoshop 2024**_](https://www.adobe.com/products/photoshop.html) - Создание, редактирование и композитинг текстурных карт.
+> * [_**Adobe Illustrator 2024**_](https://www.adobe.com/products/illustrator.html) - Векторная графика, зарисовки, создание атласов и Trim Sheet темплейтов. 
+> * [_**Adobe Premiere Pro 2024**_](https://www.adobe.com/products/premiere.html) - Видео композитинг.
+> * [_**Adobe After Effects 2024**_](https://www.adobe.com/products/aftereffects.html) - Анимация.
 
 **[⬆ _К содержанию_](#top)**
 
