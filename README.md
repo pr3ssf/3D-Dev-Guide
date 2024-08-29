@@ -285,12 +285,13 @@ Adobe Photoshop 2024
 Adobe Illustrator 2024
 Adobe Premiere Pro 2024
 Adobe After Effects 2024
+
 <a name="scene-rules"></a>
 ## 11. Правила оформления сцен
 
 Объект - любой компонент в используемом софте, у которого возможно изменить имя.
 
-**Общие правила:**
+### Общие правила:
 
 > 1. В именах объектов используются только буквы _**латинского алфавита**_.
 > 2. В именовании объектов не используется транслит: **НЕПРАВИЛЬНО** - `Derevo`, **ПРАВИЛЬНО** - `Tree`.
@@ -298,7 +299,7 @@ Adobe After Effects 2024
 > 4. Важно держать иерархию проекта в порядке: используйте папки, разделение по цветам, инстансирование.
 > 5. Важно следить за оптимизацией проектов.
 
-**Blender:**
+### Blender:
 
 > 1. Объект в сцене расположен в центре координат.
 > 2. Pivot Point (Origin) объекта совпадает с центром координат.
@@ -306,7 +307,7 @@ Adobe After Effects 2024
 > 4. Обекты в иерархии должны быть логически распределены по папкам и иметь понятный нейминг.
 > 5. На сцене не должно быть мусорных объектов.
 
-**Substance Painter:**
+### Substance Painter:
 
 > 1. Распределять слои по логическим папкам
 > 2. Использовать цвета папок для разграничения пространства иерархии слоев.
@@ -314,3 +315,9 @@ Adobe After Effects 2024
 
 <a name="texturemaps"></a>
 ## 12. Структура текстурных карт
+
+> * **MetallicSmoothness:** RGB - Metallic, Alpha - Gloss
+> * **SpecularGlossiness:** RGB - Specular (generated), Alpha - Gloss
+> * **MaskMap (TerrainLayers):** Red - Metallic, Green - AmbientOcclusion, Blue - Height, Alpha - Gloss
+> * **MaskMap (HDRP):** Red - Roughness, Green - Metallic, Blue - AmbientOcclusion, Alpha - Height
+
