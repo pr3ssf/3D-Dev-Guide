@@ -156,7 +156,7 @@ ZBrush воспринимает только триангулированную 
 
 Модели триангулируются **ВРУЧНУЮ**.
 
-[Нагляднее про LOD](https://dzen.ru/a/YSSl6QGHHAZ8YaAs)
+[Нагляднее про LOD](https://dzen.ru/a/YSSl6QGHHAZ8YaAs)  
 [Статья про LOD](https://cgitems.ru/articles/chto-takoe-lody-i-lodirovanie-v-igrakh-kak-nastroit-lody-lods/)
 
 **[⬆ _К содержанию_](#top)**
